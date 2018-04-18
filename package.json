@@ -1,5 +1,5 @@
 {
-  "name": "socket.io",
+  "name": "practica3Entrega",
   "version": "1.7.2",
   "description": "node.js",
   "keywords": [
@@ -13,11 +13,10 @@
   ],
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/socketio/socket.io"
+    "type": "git"
   },
   "scripts": {
-    "test": "node ./practica3.js"
+    "test": "node practica3.js"
   },
   "dependencies": {
     "debug": "2.3.3",
