@@ -9,8 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "practica3.js"
+    "test": "node practica3.js"
   },
   "author": "",
   "license": "ISC"
