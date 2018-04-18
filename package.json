@@ -5,7 +5,7 @@
   "engines": {
     "node": "8.9.1"
   },
-  "main": "practica3.js",
+  "main": "index.js",
   "scripts": {
     "start": "node practica3.js",
     "test": "node practica3.js"
