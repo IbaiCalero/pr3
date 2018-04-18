@@ -1,7 +1,7 @@
 {
   "name": "practica3entrega",
   "version": "1.0.0",
-  "description": "",
+  "description": "node.js realtime framework chat",
   "main": "practica3.js",
   "dependencies": {
     "express": "^4.16.2",
